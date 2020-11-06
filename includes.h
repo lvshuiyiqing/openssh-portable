@@ -16,7 +16,7 @@
 #ifndef INCLUDES_H
 #define INCLUDES_H
 
-#include "config.h"
+//#include "config.h"
 
 #define _GNU_SOURCE /* activate extra prototypes for glibc */
 
